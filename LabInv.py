@@ -1,5 +1,6 @@
 # device IP is taken from InventoryDevice.txt
 # 11 Mar 2020 : try and except added
+# 02 May 2020 : add system path
 
 from netmiko import ConnectHandler
 import time, re, sys
@@ -7,6 +8,7 @@ import socket, difflib
 from time import gmtime, strftime
 import getpass
 
+file_path = os.path.dirname(os.path.realpath(__file__))
 
 def netmiko_ssh():
     deviceIP = DeviceList()
@@ -39,14 +41,14 @@ def netmiko_ssh():
 # Raw log is created
 def createLog(c):
     LocalTime= strftime("%d%m%Y", gmtime())
-    f = open('Ankit/LabInventory/CiscoInv/InventoryRaw-' + LocalTime + '.txt', 'a')
+    f = open(file_path + '/CiscoInv/InventoryRaw-' + LocalTime + '.txt', 'a')
     f.write(c)
     #f.write('\n\n')
     f.close()
 
 # read inventory device details from txt file
 def DeviceList():
-    f = open('/home/colt123/Ankit/LabInventory/InventoryDevice.txt','r')
+    f = open(file_path + '/InventoryDevice.txt','r')
     f1 = f.readlines()
     return f1
 
@@ -64,7 +66,7 @@ def InvetoryCheck(c,dp):
 def createLogInventory(interface, serial,dp):
     LocalTime= strftime("%d%m%Y", gmtime())
     dp = dp.rstrip('\n')
-    f = open('Ankit/LabInventory/CiscoInv/Inventory-' + LocalTime + '.txt', 'a')
+    f = open(file_path + '/CiscoInv/Inventory-' + LocalTime + '.txt', 'a')
     for i in range(len(interface)):
         f.write(dp + ';' + interface[i] + ';'  + serial[i])
         f.write('\n')

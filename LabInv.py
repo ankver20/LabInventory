@@ -7,6 +7,7 @@ import time, re, sys
 import socket, difflib
 from time import gmtime, strftime
 import getpass
+import os
 
 file_path = os.path.dirname(os.path.realpath(__file__))
 

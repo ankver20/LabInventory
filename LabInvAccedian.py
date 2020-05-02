@@ -1,6 +1,7 @@
 ## History
 # 22 Feb 2020 Created to fetch Accedian SFP/inventory details
 # 23 Feb 2020 Try and Except added under for loop, so that if SSH fails on any device, program continues
+# 02 May 2020 : add system path
 
 
 # Device IP is taken from AccedianInventoryDevice.txt
@@ -9,6 +10,9 @@ from netmiko import ConnectHandler
 import time, re, sys
 import socket, difflib
 from time import gmtime, strftime
+import os
+
+file_path = os.path.dirname(os.path.realpath(__file__))
 
 if __name__ == '__main__':
     # Accedian username & PW for BLR Lab
@@ -49,14 +53,14 @@ def accedian_ssh(dp):
 # Raw log is created
 def createLog(c):
     LocalTime= strftime("%d%m%Y", gmtime())
-    f = open('/home/colt123/Ankit/LabInventory/AccedianInv/AccedianInventoryRaw-' + LocalTime + '.txt', 'a')
+    f = open(file_path + '/AccedianInv/AccedianInventoryRaw-' + LocalTime + '.txt', 'a')
     f.write(c)
     #f.write('\n\n')
     f.close()
 
 # read inventory device details from txt file
 def DeviceList():
-    f = open('/home/colt123/Ankit/LabInventory/AccedianInventoryDevice.txt','r')
+    f = open(file_path + '/AccedianInventoryDevice.txt','r')
     f1 = f.readlines()
     return f1
 
@@ -70,7 +74,7 @@ def AccedianInvetoryCheck(c,dp):
 def createLogInventory(data, dp):
     LocalTime= strftime("%d%m%Y", gmtime())
     dp = dp.rstrip('\n')
-    f = open('/home/colt123/Ankit/LabInventory/AccedianInv/AccedianInventory-' + LocalTime + '.txt', 'a')
+    f = open(file_path + '/AccedianInv/AccedianInventory-' + LocalTime + '.txt', 'a')
     for i in range(len(data)):
         #Connector  Part number      Serial number     Wavelength    Speed#
         f.write(dp+';'+data[i][0]+';'+data[i][1]+';'+data[i][2]+';'+data[i][3]+';'+data[i][4])

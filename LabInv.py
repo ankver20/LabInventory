@@ -18,7 +18,7 @@ def netmiko_ssh():
         try:
             dp = deviceIP[i]
 
-            net_connect = ConnectHandler(device_type='cisco_xr', ip= dp, username='averma2', password='Ank#2018', port = 22)
+            net_connect = ConnectHandler(device_type='cisco_xr', ip= dp, username='averma2', password='Ank#2020', port = 22)
             output = net_connect.send_command_expect("ter len 0", delay_factor=2)
             print(output)
             output = net_connect.send_command_expect("sh inventory", delay_factor=2)

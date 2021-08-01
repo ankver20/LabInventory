@@ -1,0 +1,621 @@
+
+10.91.112.78
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.78:22
+
+
+
+10.91.112.70
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.70:22
+
+
+
+10.91.243.93
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.93:22
+
+
+
+10.91.112.100
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.100:22
+
+
+
+10.91.112.94
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.94:22
+
+
+
+10.91.243.85
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.85:22
+
+
+
+10.91.112.98
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.98:22
+
+
+
+10.91.243.67
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.67:22
+
+
+
+10.91.112.89
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.89:22
+
+
+
+10.91.243.90
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.90:22
+
+
+
+10.91.112.91
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.91:22
+
+
+
+10.91.112.85
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.85:22
+
+
+
+10.91.243.94
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.94:22
+
+
+
+10.91.112.77
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.77:22
+
+
+
+10.91.112.80
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.80:22
+
+
+
+10.91.112.66
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.66:22
+
+
+
+10.91.121.226
+####
+Present Connector  Part number      Serial number     Wavelength    Speed 
+------- ---------- ---------------- ----------------- ------------- ---------
+Yes     SFP-1      7SN-000          G815060483        1310 nm       1G         
+no      SFP-2      ---              ---               ---           ---        
+Yes     SFP-3      8SN-000          I817040830        1310 nm       1G         
+no      SFP-4      ---              ---               ---           ---        
+
+10.91.112.72
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.72:22
+
+
+
+10.91.112.84
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.84:22
+
+
+
+10.91.112.99
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.99:22
+
+
+
+10.91.112.88
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.88:22
+
+
+
+10.91.112.108
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.108:22
+
+
+
+10.91.243.121
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.121:22
+
+
+
+10.91.243.99
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.99:22
+
+
+
+10.91.243.104
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.104:22
+
+
+
+10.91.243.95
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.95:22
+
+
+
+10.91.112.74
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.74:22
+
+
+
+10.91.243.105
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.105:22
+
+
+
+10.91.243.124
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.124:22
+
+
+
+10.91.112.126
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.126:22
+
+
+
+10.91.112.93
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.93:22
+
+
+
+10.91.243.118
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.118:22
+
+
+
+10.91.112.109
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.109:22
+
+
+
+10.91.112.76
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.76:22
+
+
+
+10.91.112.71
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.71:22
+
+
+
+10.91.243.88
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.88:22
+
+
+
+10.91.112.73
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.73:22
+
+
+
+10.91.243.108
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.108:22
+
+
+
+10.91.112.68
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.68:22
+
+
+
+10.91.243.111
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.111:22
+
+
+
+10.91.112.121
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.121:22
+
+
+
+10.91.112.87
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.87:22
+
+
+
+10.91.243.72
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.72:22
+
+
+
+10.91.112.117
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.117:22
+
+
+
+10.91.243.89
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.89:22
+
+
+
+10.91.112.125
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.125:22
+
+
+
+10.91.112.67
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.67:22
+
+
+
+10.91.112.90
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.90:22
+
+
+
+10.91.112.102
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.102:22
+
+
+
+10.91.112.107
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.107:22
+
+
+
+10.91.243.117
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.243.117:22
+
+
+
+10.91.112.92
+ : TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: accedian 10.91.112.92:22
+
+

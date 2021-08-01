@@ -1,0 +1,3935 @@
+
+10.91.126.111
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20265C09
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S33      , VID: 01.0, SN: H1011P40700074
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040874
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051062
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250162
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040876
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100284
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100225
+
+NAME: "TenGigE0/0/0/7", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: SA01, SN: X2003030033
+
+NAME: "TenGigE0/0/0/8", DESCR: "Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: SFP-10G-SR        , VID: V03, SN: AGA17024DF6
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA4800001
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160244
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100300
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160257
+
+NAME: "GigabitEthernet0/0/0/13", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040951
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090023
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070566
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73000113
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100326
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 7SM-000           , VID: AP01, SN: H327100697
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: G131057100
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040309
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100890
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100899
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200648
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS48-C3L-TC-N-D5  , VID: 0000, SN: 8820080371
+
+NAME: "GigabitEthernet0/0/0/25", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050492
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250255
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210348
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817041168
+
+NAME: "GigabitEthernet0/0/0/29", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206B
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: GLC-SX-MMD        , VID: V01, SN: AGJ2229R4LZ
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100220
+
+NAME: "GigabitEthernet0/0/0/32", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100319
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040841
+
+NAME: "TenGigE0/0/0/34", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030334
+
+NAME: "GigabitEthernet0/0/0/35", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070956
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P24800803
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H207110993
+
+NAME: "TenGigE0/0/0/38", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA4900169
+
+NAME: "TenGigE0/0/0/39", DESCR: "Unknown Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: N/A
+
+NAME: "GigabitEthernet0/0/0/40", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100228
+
+NAME: "GigabitEthernet0/0/0/41", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100840
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040899
+
+NAME: "TenGigE0/0/0/43", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA4900085
+
+NAME: "TenGigE0/0/0/44", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600073
+
+NAME: "TenGigE0/0/0/45", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S27      , VID: 01.0, SN: H0953P22500003
+
+NAME: "TenGigE0/0/0/46", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160249
+
+NAME: "TenGigE0/0/0/47", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030276
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V01, SN: AVF2030G00T
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: INHAU6670062
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204201YW-A
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS24380D38
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20391GJP
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2031R4B0
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q28
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q0L
+
+10.91.126.112
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20396F3B
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600005
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900027
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: FTLX8571D3BCL-CY  , VID: A  , SN: ANQ0VTQ
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600010
+
+NAME: "TenGigE0/0/0/4", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160273
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100922
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100918
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160258
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P62800004
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: FTLX8571D3BCL     , VID: A  , SN: AGP035Z
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: FTLF1321P1BTL     , VID: A  , SN: PR73HG7
+
+NAME: "GigabitEthernet0/0/0/13", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V02, SN: AVC23490CY5
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060489
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160278
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060491
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040881
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160214
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA4900159
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: FNS16380GXF
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100249
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100295
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: TPP1XGDS0CACEE2G  , VID: N/A, SN: Z133205ZK
+
+NAME: "TenGigE0/0/0/24", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070570
+
+NAME: "GigabitEthernet0/0/0/25", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: G131057139
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250294
+
+NAME: "GigabitEthernet0/0/0/27", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050450
+
+NAME: "TenGigE0/0/0/28", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73500051
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1807200303
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P70700046
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900018
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S27      , VID: 01.0, SN: H0911P24200005
+
+NAME: "TenGigE0/0/0/33", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: 8SX-408           , VID: OE01, SN: Y0213PA1500004
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-D3  , VID: 0000, SN: 7117040036
+
+NAME: "TenGigE0/0/0/35", DESCR: "Unknown Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: N/A
+
+NAME: "TenGigE0/0/0/36", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070569
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060482
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: A512060152
+
+NAME: "GigabitEthernet0/0/0/39", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: FTLF8519P2BNL     , VID: A  , SN: U880DUF
+
+NAME: "TenGigE0/0/0/40", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070580
+
+NAME: "GigabitEthernet0/0/0/41", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040879
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100368
+
+NAME: "TenGigE0/0/0/43", DESCR: "Unknown Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: N/A
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: FTLF1318P2BTL-CY  , VID: A  , SN: PMQ2UQ7
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D3  , VID: 0000, SN: E121140311
+
+NAME: "GigabitEthernet0/0/0/46", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P24800387
+
+NAME: "TenGigE0/0/0/47", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030278
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V01, SN: AVF2030G01T
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS203815BH
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204201UY-B
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS244009GJ
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: INHAO8570480
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2035R1P1
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q35
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q0N
+
+10.91.126.113
+####Sun Aug  1 08:58:36.423 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20363L0Z
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500293
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F727030099
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P74100217
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S33      , VID: 01.0, SN: H1011P40700049
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150073
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090102
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: DB11100719
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100925
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600013
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070963
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800493
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070563
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S27      , VID: 01.0, SN: H0911P24200004
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100080
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500018
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140197
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P74100225
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P64200008
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Non-Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: 7SV-000           , VID: DT01, SN: DE193204H00815
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800480
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060518
+
+NAME: "GigabitEthernet0/0/0/23", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: G204080088
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040307
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA3000053
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200650
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500069
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040886
+
+NAME: "GigabitEthernet0/0/0/29", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: AVJ222430Z8
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060494
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P61400037
+
+NAME: "GigabitEthernet0/0/0/32", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110683
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040912
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100048
+
+NAME: "GigabitEthernet0/0/0/35", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F727030126
+
+NAME: "TenGigE0/0/0/37", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100029
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: A512061171
+
+NAME: "TenGigE0/0/0/39", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: 7ST-401           , VID: OE01, SN: H0911P72900253
+
+NAME: "GigabitEthernet0/0/0/40", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040887
+
+NAME: "GigabitEthernet0/0/0/41", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H207110998
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150021
+
+NAME: "GigabitEthernet0/0/0/43", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070961
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140201
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G810060019
+
+NAME: "GigabitEthernet0/0/0/46", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100074
+
+NAME: "TenGigE0/0/0/47", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73500072
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204201UP-B
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KK-A
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW20420218-B
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2034R091
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20248Q0W
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20248Q0M
+
+10.91.126.114
+####Sun Aug  1 08:58:46.462 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20265C0T
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100924
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100929
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090083
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800494
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: C514070580
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040100
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100216
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: H719060021
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P74100124
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: TRBCXGFWBCACEE2G  , VID: 0001, SN: Z12500754
+
+NAME: "TenGigE0/0/0/10", DESCR: "Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: SFP-10G-SR        , VID: V03, SN: FNS15351SYV
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500025
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051461
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160269
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73500089
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929071005
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040306
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070950
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TI-N-DD  , VID: 0000, SN: 9B23080296
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Cisco SFP 1G DWDM 1534.25nm Pluggable Optics Module"
+PID: DWDM-SFP-3425     , VID: V03, SN: FNS23340GBT
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070565
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160226
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050365
+
+NAME: "GigabitEthernet0/0/0/23", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: LS48-C3M-TC-N-D4  , VID: 0000, SN: DB14060007
+
+NAME: "TenGigE0/0/0/24", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73000209
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73500052
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: H726110274
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800492
+
+NAME: "TenGigE0/0/0/28", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: RBTX0SLR-S33      , VID: 01.0, SN: H0851P41000022
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: TPP1XGDS0IACEE2G  , VID: 0000, SN: Z13450612
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100013
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160215
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1904250181
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040844
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150054
+
+NAME: "TenGigE0/0/0/35", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800475
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: H719060028
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Cisco SFP 1G DWDM 1531.90nm Pluggable Optics Module"
+PID: DWDM-SFP-3190     , VID: V03, SN: FNS24210F5B
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150079
+
+NAME: "GigabitEthernet0/0/0/39", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100928
+
+NAME: "GigabitEthernet0/0/0/40", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P34000928
+
+NAME: "TenGigE0/0/0/41", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250040
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050431
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040299
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D3  , VID: 0000, SN: D226020295
+
+NAME: "TenGigE0/0/0/46", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030308
+
+NAME: "GigabitEthernet0/0/0/47", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: GA27050173
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204201UP-A
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KF-B
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW20420218-A
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC15M  , VID: V01, SN: FIW204202WQ-A
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2024R0AW
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20278Q5C
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20278Q0P
+
+10.91.126.115
+####Sun Aug  1 08:58:55.499 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20396F3P
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030231
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050433
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P34000803
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100210
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: FNS12370STZ
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: A512060187
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H314080438
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090097
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: FTLF8519P2BNL     , VID: A  , SN: U880DY2
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090094
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140160
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: TPP1XGDS0IACEE2G  , VID: 0000, SN: Z132902ML
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800500
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250024
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250306
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H207110989
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: D712020154
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150316
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040894
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA4900170
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040840
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060493
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73500023
+
+NAME: "TenGigE0/0/0/24", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73000046
+
+NAME: "GigabitEthernet0/0/0/25", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: H726110334
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S27      , VID: 01.0, SN: H0911P40700154
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050438
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500303
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090075
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA4800036
+
+NAME: "GigabitEthernet0/0/0/32", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: A512060149
+
+NAME: "TenGigE0/0/0/33", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600008
+
+NAME: "TenGigE0/0/0/34", DESCR: "Unknown Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: N/A
+
+NAME: "TenGigE0/0/0/35", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800484
+
+NAME: "TenGigE0/0/0/36", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: FTLX1471D3BCL-CY  , VID: S  , SN: APN28PQ
+
+NAME: "TenGigE0/0/0/37", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 5026307001        , VID: 10 , SN: ADVA84131100018
+
+NAME: "TenGigE0/0/0/38", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P74100231
+
+NAME: "GigabitEthernet0/0/0/39", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D3  , VID: 0000, SN: E127120805
+
+NAME: "TenGigE0/0/0/40", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S27      , VID: 01.0, SN: H0911P23000045
+
+NAME: "TenGigE0/0/0/41", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1904250206
+
+NAME: "TenGigE0/0/0/42", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P73900075
+
+NAME: "TenGigE0/0/0/43", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030249
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110677
+
+NAME: "TenGigE0/0/0/45", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: RBTX0SLR-S27      , VID: 01.0, SN: H0801P40800025
+
+NAME: "TenGigE0/0/0/46", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P62900010
+
+NAME: "GigabitEthernet0/0/0/47", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150003
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202JZ-A
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW20420201-B
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS24270LGJ
+
+NAME: "FortyGigE0/0/1/3", DESCR: "Cisco QSFP+ 40G 4x10G BASE LR Pluggable Optics Module"
+PID: QSFP-4X10G-LR-S   , VID: V02, SN: OPM220901H5
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS242716DZ
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2035R0YB
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q0G
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q0K
+
+10.91.126.116
+####Sun Aug  1 08:59:04.529 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20265C05
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100083
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D3  , VID: 0000, SN: E121140326
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500020
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100889
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D3  , VID: 0000, SN: D226020289
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100880
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090098
+
+NAME: "TenGigE0/0/0/7", DESCR: "Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: SFP-10G-SR        , VID: V03, SN: FNS2233064Y
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250010
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500017
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070962
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600009
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: RBT12SEX-ST5      , VID: S  , SN: 83904P35100118
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P72900026
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P64100026
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051057
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: C514070590
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100022
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SU-004           , VID: AP01, SN: H811070222
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P70600020
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA2500022
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800472
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050434
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200649
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P63700002
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P72800186
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040843
+
+NAME: "GigabitEthernet0/0/0/29", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050443
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: 7ST-401           , VID: OE01, SN: H0911P72900251
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D3  , VID: 0000, SN: D226020291
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500083
+
+NAME: "TenGigE0/0/0/33", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA4900078
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V02, SN: AVC23490CY7
+
+NAME: "TenGigE0/0/0/35", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070574
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100373
+
+NAME: "TenGigE0/0/0/37", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200647
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110699
+
+NAME: "TenGigE0/0/0/39", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA4800035
+
+NAME: "TenGigE0/0/0/40", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100021
+
+NAME: "TenGigE0/0/0/41", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100012
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110680
+
+NAME: "GigabitEthernet0/0/0/43", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: F705127074
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: ACW214308TP
+
+NAME: "TenGigE0/0/0/45", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S33      , VID: 01.0, SN: H1011P40700065
+
+NAME: "TenGigE0/0/0/46", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1710160039
+
+NAME: "GigabitEthernet0/0/0/47", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090063
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: INHAO8570450
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200VK-A
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200TR-B
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24120804
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS24270SX7
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2024R0AC
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20278Q52
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20278Q0U
+
+10.91.126.117
+####Sun Aug  1 08:59:13.593 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20363L17
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: TPP2XGFLRIACEE2G  , VID: 0000, SN: Z143903KN
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060484
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64700018
+
+NAME: "TenGigE0/0/0/4", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900030
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100078
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-ZX Pluggable Optics Module"
+PID: 7SU-006           , VID: AP01, SN: I423100009
+
+NAME: "TenGigE0/0/0/7", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900023
+
+NAME: "TenGigE0/0/0/8", DESCR: "Unknown Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: N/A
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA2200042
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030561
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160302
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800487
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040840
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100221
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: GLC-SX-MMD        , VID: V01, SN: FNS21390M1N
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050162
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: G131057074
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G810060020
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73000137
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070946
+
+NAME: "GigabitEthernet0/0/0/23", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100366
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: H726110212
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P64900105
+
+NAME: "TenGigE0/0/0/28", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250137
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110685
+
+NAME: "GigabitEthernet0/0/0/32", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040907
+
+NAME: "TenGigE0/0/0/33", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070568
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: FTRJ1319P1BTL     , VID: A  , SN: P91231B
+
+NAME: "GigabitEthernet0/0/0/35", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: DB11100658
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: A512060193
+
+NAME: "TenGigE0/0/0/38", DESCR: "Unknown Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: N/A
+
+NAME: "GigabitEthernet0/0/0/39", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040909
+
+NAME: "GigabitEthernet0/0/0/40", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 7SM-000           , VID: AP01, SN: GB08100023
+
+NAME: "GigabitEthernet0/0/0/41", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150332
+
+NAME: "TenGigE0/0/0/42", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S33      , VID: 01.0, SN: H1011P40700037
+
+NAME: "TenGigE0/0/0/43", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S33      , VID: 01.0, SN: H1011P24300048
+
+NAME: "TenGigE0/0/0/44", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA2500018
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040326
+
+NAME: "GigabitEthernet0/0/0/46", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS48-C3L-TC-N-D5  , VID: 0000, SN: 8820080384
+
+NAME: "GigabitEthernet0/0/0/47", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100235
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202J9-A
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202J7-A
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V01, SN: AVF2030G00N
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202AQ-A
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2034R17W
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20248Q10
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20248Q0G
+
+10.91.126.118
+####Sun Aug  1 08:59:22.619 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20396F35
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100046
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100037
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: H726110265
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: FC31110034
+
+NAME: "TenGigE0/0/0/4", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070561
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100082
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050428
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: AVJ22243AKK
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P72800184
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150318
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: 7ST-401           , VID: OE01, SN: H0911P72900249
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P73900092
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800478
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: H719060029
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900025
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: AGM1533217X
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100902
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: MTC221806M3
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: AGM1533216N
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140188
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100045
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900015
+
+NAME: "TenGigE0/0/0/24", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P70900008
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: 8ST-401           , VID: SA01, SN: L1710160013
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D9  , VID: 0000, SN: CA31040044
+
+NAME: "GigabitEthernet0/0/0/27", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H207111003
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F727030097
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA2200017
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140202
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F727030091
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73000138
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100043
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100297
+
+NAME: "TenGigE0/0/0/35", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P64900104
+
+NAME: "TenGigE0/0/0/36", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: RBTX0SER-S27      , VID: 01.0, SN: H0911P24200001
+
+NAME: "TenGigE0/0/0/37", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500019
+
+NAME: "TenGigE0/0/0/38", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64100145
+
+NAME: "GigabitEthernet0/0/0/39", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3S-TC-N-DD  , VID: 0000, SN: C507050469
+
+NAME: "GigabitEthernet0/0/0/40", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H314080447
+
+NAME: "TenGigE0/0/0/41", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA4900160
+
+NAME: "TenGigE0/0/0/42", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73000049
+
+NAME: "TenGigE0/0/0/43", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200616
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: MTC221806QC
+
+NAME: "TenGigE0/0/0/45", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500183
+
+NAME: "GigabitEthernet0/0/0/46", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100378
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202J9-B
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200NL-A
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2035R0WW
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q19
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q3Q
+
+10.91.126.119
+####Sun Aug  1 08:59:33.269 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC2102414E
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150007
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P72800179
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200646
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070575
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090073
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600087
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100273
+
+NAME: "TenGigE0/0/0/7", DESCR: "Cisco SFP+ 10G DWDM Tunable Pluggable Optics Module"
+PID: DWDM-SFP10G-C-S   , VID: V01, SN: ONT23120011
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HA18100005
+
+NAME: "TenGigE0/0/0/9", DESCR: "Cisco SFP+ 10G DWDM Tunable Pluggable Optics Module"
+PID: DWDM-SFP10G-C-S   , VID: V01, SN: ONT2310003B
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040099
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040092
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070951
+
+NAME: "GigabitEthernet0/0/0/13", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P11380465
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090078
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040095
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040826
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F727030139
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100047
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100364
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G810060029
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500029
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: H719060027
+
+NAME: "GigabitEthernet0/0/0/23", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150078
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P34000368
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900029
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: G204080097
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72400008
+
+NAME: "TenGigE0/0/0/28", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1904250194
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64700019
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100015
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140191
+
+NAME: "GigabitEthernet0/0/0/32", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: AVJ222433A9
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110701
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140161
+
+NAME: "GigabitEthernet0/0/0/35", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100251
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F727030134
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070959
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS48-C3L-TI-N-DD  , VID: 0000, SN: A507070031
+
+NAME: "TenGigE0/0/0/40", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160234
+
+NAME: "GigabitEthernet0/0/0/41", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051464
+
+NAME: "TenGigE0/0/0/43", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800496
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: F705127008
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100283
+
+NAME: "GigabitEthernet0/0/0/46", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150005
+
+NAME: "GigabitEthernet0/0/0/47", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140196
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202JA-A
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KN-B
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Non-Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: FTLC9551REPM      , VID: A0 , SN: XW6045T
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW2042020W-A
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2102R13M
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2101F7TP
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2101F7TX
+
+10.91.126.120
+####Sun Aug  1 08:59:43.443 UTC
+NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC20265BZS
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050433
+
+NAME: "TenGigE0/0/0/1", DESCR: "Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: SFP-10G-LR-S      , VID: V01, SN: AVD2201K3MF
+
+NAME: "TenGigE0/0/0/2", DESCR: "Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: SFP-10G-SR        , VID: V03, SN: FNS15351X3R
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 77U-121           , VID: 1  , SN: P110-0098
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600059
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: RBT12SEX-ST3      , VID: 01.0, SN: 83304P35000121
+
+NAME: "TenGigE0/0/0/7", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P74100125
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040310
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100430
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: GLC-SX-MMD        , VID: V01, SN: AGJ2229R1SN
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: MTC214704CR
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: GLC-SX-MMD        , VID: V01, SN: AGJ2229R1T0
+
+NAME: "GigabitEthernet0/0/0/13", DESCR: "Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: GLC-SX-MMD        , VID: V01, SN: AGJ2143R985
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040320
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040830
+
+NAME: "TenGigE0/0/0/17", DESCR: "Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: SFP-10G-SR        , VID: V03, SN: FNS223306HW
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090080
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600064
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: RBTX0SLR-S27      , VID: 01.0, SN: H0801P40800022
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: LS48-C3M-TC-N-D4  , VID: 0000, SN: E112047036
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H922040302
+
+NAME: "GigabitEthernet0/0/0/23", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050426
+
+NAME: "GigabitEthernet0/0/0/25", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H314080436
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090066
+
+NAME: "GigabitEthernet0/0/0/27", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040816
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040089
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: SFP-10G13-LR      , VID: V02, SN: CB87030353
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100288
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SM         , VID: V01, SN: FNS122711AW
+
+NAME: "TenGigE0/0/0/34", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: FTLX1471D3BNL     , VID: A  , SN: AMF0WXK
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040882
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070964
+
+NAME: "TenGigE0/0/0/38", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200657
+
+NAME: "TenGigE0/0/0/39", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA5100038
+
+NAME: "TenGigE0/0/0/40", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921P72900002
+
+NAME: "GigabitEthernet0/0/0/41", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040902
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100882
+
+NAME: "TenGigE0/0/0/43", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P74100230
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: G131057075
+
+NAME: "GigabitEthernet0/0/0/46", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: G131057068
+
+NAME: "GigabitEthernet0/0/0/47", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: J124090052
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS23300SRU
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS23300S43
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241622
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V01, SN: AVF2029G1CS
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200NL-B
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW2250013P-A
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2030R1LS
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20248Q11
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: POG20258Q3Z
+
+10.91.126.195
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC23036VFJ
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051066
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210336
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205T
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040833
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100859
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100215
+
+NAME: "TenGigE0/0/0/6", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210354
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100380
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100205
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210384
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1904250186
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827101008
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210364
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210327
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100208
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250735
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250691
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051063
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040823
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250747
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100293
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100285
+
+NAME: "GigabitEthernet0/0/0/23", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040096
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: LM28-C3S-TC-N-DD  , VID: 0000, SN: D606060833
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030562
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040824
+
+NAME: "GigabitEthernet0/0/0/27", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040846
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I510071547
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64600071
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 770-301           , VID: 1  , SN: E802-1639
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100903
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250742
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206G
+
+NAME: "TenGigE0/0/0/34", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1904250184
+
+NAME: "TenGigE0/0/0/35", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160220
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: KS38-C3S-TC-N     , VID: 0000, SN: 6C04010344
+
+NAME: "TenGigE0/0/0/39", DESCR: "Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: SFP-10G-SR        , VID: V03, SN: FNS223306L1
+
+NAME: "TenGigE0/0/0/41", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64700015
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: F618140167
+
+NAME: "GigabitEthernet0/0/0/43", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: FTLF1318P2BTL-CY  , VID: S  , SN: PMQ2UVS
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100270
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100276
+
+NAME: "TenGigE0/0/0/46", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030257
+
+NAME: "GigabitEthernet0/0/0/47", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040896
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Non-Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: LA-AOC-Q28-20m-C  , VID: B  , SN: 101906040001
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200NM-B
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS235108SY
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS23510931
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2304R058
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 DC 950W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-950W-DCFW     , VID: V01, SN: ART2308F0Y5
+
+NAME: "0/PM1", DESCR: "NCS 5500 DC 950W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-950W-DCFW     , VID: V01, SN: ART2308F0W4
+
+10.91.126.196
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC22337T9K
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040880
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210359
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100852
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100286
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040822
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827101013
+
+NAME: "TenGigE0/0/0/6", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210353
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827101018
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250692
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250680
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS38-C3L-TC-N-D3  , VID: 0000, SN: D226020297
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072069
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: 7SV-000           , VID: DT01, SN: DE193204H00814
+
+NAME: "GigabitEthernet0/0/0/13", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100277
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100223
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100229
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100896
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040890
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040813
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100385
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100227
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100299
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1903070572
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: ABCU-5730RZ-1H    , VID: N/A, SN: 6CV627001B
+
+NAME: "GigabitEthernet0/0/0/25", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110674
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: GLC-SX-MMD        , VID: V01, SN: FNS22300DC0
+
+NAME: "TenGigE0/0/0/27", DESCR: "Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: SFP-10G-SR-S      , VID: V01, SN: ACW24150U3J
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I510071540
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1902210589
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 770-301           , VID: 1  , SN: E800-6743
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250711
+
+NAME: "GigabitEthernet0/0/0/33", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206C
+
+NAME: "TenGigE0/0/0/34", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1904250183
+
+NAME: "TenGigE0/0/0/35", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800495
+
+NAME: "TenGigE0/0/0/36", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P74200654
+
+NAME: "TenGigE0/0/0/37", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA2200034
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H829050448
+
+NAME: "TenGigE0/0/0/39", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 7SM-400           , VID: OE01, SN: K0503P73500096
+
+NAME: "TenGigE0/0/0/40", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P72900022
+
+NAME: "GigabitEthernet0/0/0/41", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150334
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HA18100004
+
+NAME: "GigabitEthernet0/0/0/43", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040103
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100280
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100911
+
+NAME: "TenGigE0/0/0/46", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73800497
+
+NAME: "TenGigE0/0/0/47", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7ST-400           , VID: OE01, SN: H0821P61400036
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Non-Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: LA-AOC-Q28-20m-C  , VID: B  , SN: 101906040003
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200NM-A
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: IN1903280001
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: INIBO7560160
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2234R0RK
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 DC 950W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-950W-DCFW     , VID: V01, SN: ART2307F968
+
+NAME: "0/PM1", DESCR: "NCS 5500 DC 950W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-950W-DCFW     , VID: V01, SN: ART2307F96Y
+
+10.91.126.199
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC232253RM
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100897
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070948
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100367
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205V
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206K
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072068
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030240
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100858
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030327
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030342
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205Q
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: 7SU-401           , VID: OE01, SN: H1011P63100123
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100237
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206J
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205Y
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030206
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100883
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: SFP-1G-T          , VID: 20 , SN: AHN170600GMF
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100241
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100856
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KD-B
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20380YSR
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241430
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: IN1904080002
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V03, SN: AVF2421S32C
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2323R0BH
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FGTT
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FGTA
+
+10.91.126.200
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC232253PJ
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072067
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206D
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P34300086
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100256
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100257
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100901
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072066
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030340
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040847
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072065
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030326
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030241
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030517
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: AGM153320MH
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060486
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KD-A
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Non-Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: LA-AOC-Q28-20m-C  , VID: B  , SN: 101908220003
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241631
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241727
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2323R0GU
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FH07
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FGU7
+
+10.91.126.121
+####TCP connection to device failed.
+
+Common causes of this problem are:
+1. Incorrect hostname or IP address.
+2. Wrong TCP port.
+3. Intermediate firewall blocking access.
+
+Device settings: cisco_xr 10.91.126.121:22
+
+
+10.91.126.122
+####NAME: "0/0", DESCR: "NCS 5500 24x100G Scale Line Card"
+PID: NC55-24X100G-SE   , VID: V01, SN: JAE2026056V
+
+NAME: "HundredGigE0/0/0/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC5M   , VID: V01, SN: FIW204202WD-A
+
+NAME: "HundredGigE0/0/0/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS243807CW
+
+NAME: "HundredGigE0/0/0/2", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204201UY-A
+
+NAME: "HundredGigE0/0/0/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20380V0S
+
+NAME: "HundredGigE0/0/0/5", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204201ZD-A
+
+NAME: "HundredGigE0/0/0/6", DESCR: "Non-Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: LA-AOC-Q28-20m-C  , VID: B  , SN: 101906040002
+
+NAME: "HundredGigE0/0/0/7", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KN-A
+
+NAME: "HundredGigE0/0/0/11", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241204
+
+NAME: "HundredGigE0/0/0/23", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: INIBO7560232
+
+NAME: "0/RP0", DESCR: "NCS 5500 Route Processor"
+PID: NC55-RP           , VID: V01, SN: SAL2026SFNN
+
+NAME: "0/RP1", DESCR: "NCS 5500 Route Processor"
+PID: NC55-RP           , VID: V01, SN: SAL2026SFMH
+
+NAME: "0/FC0", DESCR: "NCS 5508 Fabric Card"
+PID: NC55-5508-FC      , VID: V02, SN: SAL2027SUMT
+
+NAME: "0/FC1", DESCR: "NCS 5508 Fabric Card"
+PID: NC55-5508-FC      , VID: V02, SN: SAL2027SUMS
+
+NAME: "0/FC2", DESCR: "NCS 5508 Fabric Card"
+PID: NC55-5508-FC      , VID: V02, SN: SAL2027SUMV
+
+NAME: "0/FC3", DESCR: "NCS 5508 Fabric Card"
+PID: NC55-5508-FC      , VID: V02, SN: SAL2027SUNA
+
+NAME: "0/FC4", DESCR: "NCS 5508 Fabric Card"
+PID: NC55-5508-FC      , VID: V02, SN: SAL2028T513
+
+NAME: "0/FC5", DESCR: "NCS 5508 Fabric Card"
+PID: NC55-5508-FC      , VID: V02, SN: SAL2025SA4M
+
+NAME: "0/SC0", DESCR: "NCS 5500 System Controller"
+PID: NC55-SC           , VID: V01, SN: SAL2024S0M1
+
+NAME: "0/SC1", DESCR: "NCS 5500 System Controller"
+PID: NC55-SC           , VID: V01, SN: SAL2020QA9E
+
+NAME: "Rack 0", DESCR: "NCS5500 8 Slot Single Chassis"
+PID: NCS-5508          , VID: V01, SN: FGE20270DX2
+
+NAME: "0/FT0", DESCR: "NCS 5508 Fan Tray"
+PID: NC55-5508-FAN     , VID: V01, SN: FGE20260DP7
+
+NAME: "0/FT1", DESCR: "NCS 5508 Fan Tray"
+PID: NC55-5508-FAN     , VID: V01, SN: FGE20260DQA
+
+NAME: "0/FT2", DESCR: "NCS 5508 Fan Tray"
+PID: NC55-5508-FAN     , VID: V01, SN: FGE20260DPZ
+
+NAME: "0/PM0", DESCR: "NCS 5500 3KW DC Power Supply"
+PID: NC55-PWR-3KW-DC   , VID: V01, SN: DTM202304JF
+
+NAME: "0/PM1", DESCR: "NCS 5500 3KW DC Power Supply"
+PID: NC55-PWR-3KW-DC   , VID: V01, SN: DTM202304K0
+
+NAME: "0/PM2", DESCR: "NCS 5500 3KW DC Power Supply"
+PID: NC55-PWR-3KW-DC   , VID: V01, SN: DTM202304GZ
+
+NAME: "0/PM3", DESCR: "NCS 5500 3KW DC Power Supply"
+PID: NC55-PWR-3KW-DC   , VID: V01, SN: DTM202304J3
+
+10.91.126.123
+####NAME: "0/RP0", DESCR: "NC5502 Route Processor Card"
+PID: NCS-5502-SE       , VID: V01, SN: FOC210243C7
+
+NAME: "HundredGigE0/0/0/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KJ-A
+
+NAME: "HundredGigE0/0/0/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KK-B
+
+NAME: "HundredGigE0/0/0/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20401AG3
+
+NAME: "HundredGigE0/0/0/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS204014PD
+
+NAME: "HundredGigE0/0/0/4", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202JZ-B
+
+NAME: "HundredGigE0/0/0/5", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204201ZD-B
+
+NAME: "HundredGigE0/0/0/7", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS23300SSE
+
+NAME: "HundredGigE0/0/0/8", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24120728
+
+NAME: "HundredGigE0/0/0/9", DESCR: "Non-Cisco QSFP28 100G ER4 Pluggable Optics Module"
+PID: QSFP28-100G-ER4L  , VID: 01 , SN: QG95820002
+
+NAME: "HundredGigE0/0/0/21", DESCR: "Non-Cisco QSFP28 100G ER4 Pluggable Optics Module"
+PID: QSFP28-100G-ER4L  , VID: 01 , SN: QG95820001
+
+NAME: "HundredGigE0/0/0/32", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V01, SN: AVF2029G1DN
+
+NAME: "Rack 0", DESCR: "NCS5502 2RU Chassis"
+PID: NCS-5502-SE       , VID: V01, SN: FOC2106R077
+
+NAME: "0/FT0", DESCR: "NC5502 Fan Tray Forward Flow"
+PID: NC55-2RU-FAN-FW   , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5502 Fan Tray Forward Flow"
+PID: NC55-2RU-FAN-FW   , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NC5502 Fan Tray Forward Flow"
+PID: NC55-2RU-FAN-FW   , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J610
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J64B
+
+NAME: "0/PM2", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J635
+
+NAME: "0/PM3", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J63M
+
+10.91.126.124
+####NAME: "0/RP0", DESCR: "NC5502 Route Processor Card"
+PID: NCS-5502-SE       , VID: V01, SN: FOC210243C8
+
+NAME: "HundredGigE0/0/0/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202J7-B
+
+NAME: "HundredGigE0/0/0/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KF-A
+
+NAME: "HundredGigE0/0/0/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS203815AE
+
+NAME: "HundredGigE0/0/0/3", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KJ-B
+
+NAME: "HundredGigE0/0/0/4", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW20420201-A
+
+NAME: "HundredGigE0/0/0/5", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC5M   , VID: V01, SN: FIW204202WC-A
+
+NAME: "HundredGigE0/0/0/7", DESCR: "Non-Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: LA-AOC-Q28-20m-C  , VID: B  , SN: 101908220004
+
+NAME: "HundredGigE0/0/0/8", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS24270PU9
+
+NAME: "HundredGigE0/0/0/11", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244103
+
+NAME: "HundredGigE0/0/0/20", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V01, SN: AVF2029G1CF
+
+NAME: "Rack 0", DESCR: "NCS5502 2RU Chassis"
+PID: NCS-5502-SE       , VID: V01, SN: FOC2106R0BD
+
+NAME: "0/FT0", DESCR: "NC5502 Fan Tray Forward Flow"
+PID: NC55-2RU-FAN-FW   , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5502 Fan Tray Forward Flow"
+PID: NC55-2RU-FAN-FW   , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NC5502 Fan Tray Forward Flow"
+PID: NC55-2RU-FAN-FW   , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J624
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J62B
+
+NAME: "0/PM2", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J66F
+
+NAME: "0/PM3", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2020J616
+
+10.91.126.125
+####NAME: "0/RP0", DESCR: "NCS55A1 Fixed 36x100G Base Route Processor Card"
+PID: NCS-55A1-36H-S    , VID: V02, SN: FOC23357ANP
+
+NAME: "HundredGigE0/0/0/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW2042020A-B
+
+NAME: "HundredGigE0/0/0/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS243808ZF
+
+NAME: "HundredGigE0/0/0/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS203815AL
+
+NAME: "HundredGigE0/0/0/4", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202AQ-B
+
+NAME: "HundredGigE0/0/0/5", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200TR-A
+
+NAME: "HundredGigE0/0/0/10", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241626
+
+NAME: "Rack 0", DESCR: "NCS55A1 Fixed 36x100G Base Chassis"
+PID: NCS-55A1-36H-S    , VID: V02, SN: FOC2336R29P
+
+NAME: "0/FT0", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2230J62Z
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2230J60S
+
+10.91.126.193
+####NAME: "0/RP0", DESCR: "NCS55A1 Fixed 36x100G Base Route Processor Card"
+PID: NCS-55A1-36H-S    , VID: V01, SN: FOC23027E4H
+
+NAME: "HundredGigE0/0/0/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20380YR2
+
+NAME: "HundredGigE0/0/0/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS24380FGK
+
+NAME: "HundredGigE0/0/0/2", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW2250013P-B
+
+NAME: "HundredGigE0/0/0/7", DESCR: "Cisco QSFP28 100G ER4L Pluggable Optics Module"
+PID: QSFP-100G-ER4L-S  , VID: V01, SN: FLJ2349J008
+
+NAME: "HundredGigE0/0/0/10", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW2042020A-A
+
+NAME: "HundredGigE0/0/0/11", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200VK-B
+
+NAME: "HundredGigE0/0/0/12", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241400
+
+NAME: "Rack 0", DESCR: "NCS55A1 Fixed 36x100G Base Chassis"
+PID: NCS-55A1-36H-S    , VID: V01, SN: FOC2303R04N
+
+NAME: "0/FT0", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2230J62A
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2230J633
+
+10.91.126.193
+####NAME: "0/RP0", DESCR: "NCS55A1 Fixed 36x100G Base Route Processor Card"
+PID: NCS-55A1-36H-S    , VID: V01, SN: FOC23027E4H
+
+NAME: "HundredGigE0/0/0/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20380YR2
+
+NAME: "HundredGigE0/0/0/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS24380FGK
+
+NAME: "HundredGigE0/0/0/2", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW2250013P-B
+
+NAME: "HundredGigE0/0/0/7", DESCR: "Cisco QSFP28 100G ER4L Pluggable Optics Module"
+PID: QSFP-100G-ER4L-S  , VID: V01, SN: FLJ2349J008
+
+NAME: "HundredGigE0/0/0/10", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW2042020A-A
+
+NAME: "HundredGigE0/0/0/11", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V02, SN: FIW230200VK-B
+
+NAME: "HundredGigE0/0/0/12", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241400
+
+NAME: "Rack 0", DESCR: "NCS55A1 Fixed 36x100G Base Chassis"
+PID: NCS-55A1-36H-S    , VID: V01, SN: FOC2303R04N
+
+NAME: "0/FT0", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 5500 Fan Tray 1RU Chassis Port-S Intake/Front-to-back"
+PID: NC55-A1-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2230J62A
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 2KW Power Supply Port-S Intake/Front-to-back"
+PID: NC55-2KW-ACFW     , VID: V01, SN: POG2230J633
+
+10.91.126.199
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC232253RM
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100897
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H929070948
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100367
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205V
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206K
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072068
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030240
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100858
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030327
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030342
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205Q
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G ER Pluggable Optics Module"
+PID: 7SU-401           , VID: OE01, SN: H1011P63100123
+
+NAME: "GigabitEthernet0/0/0/16", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100237
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206J
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205Y
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030206
+
+NAME: "GigabitEthernet0/0/0/22", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100883
+
+NAME: "GigabitEthernet0/0/0/31", DESCR: "Non-Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: SFP-1G-T          , VID: 20 , SN: AHN170600GMF
+
+NAME: "GigabitEthernet0/0/0/36", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100241
+
+NAME: "GigabitEthernet0/0/0/44", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100856
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KD-B
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20380YSR
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241430
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: IN1904080002
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V03, SN: AVF2421S32C
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2323R0BH
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FGTT
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FGTA
+
+10.91.126.200
+####NAME: "0/RP0", DESCR: "NC5501 w/o TCAM Route Processor Card"
+PID: NCS-5501          , VID: V01, SN: FOC232253PJ
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072067
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307206D
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: RSP12SLX-ST3      , VID: 01.0, SN: F2307P34300086
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100256
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100257
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100901
+
+NAME: "GigabitEthernet0/0/0/17", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072066
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030340
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040847
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072065
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030326
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030241
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030517
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: N/A               , VID: N/A, SN: AGM153320MH
+
+NAME: "GigabitEthernet0/0/0/38", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060486
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC7M   , VID: V01, SN: FIW204202KD-A
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Non-Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: LA-AOC-Q28-20m-C  , VID: B  , SN: 101908220003
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241631
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241727
+
+NAME: "Rack 0", DESCR: "NCS5501 w/o TCAM 1RU Chassis"
+PID: NCS-5501          , VID: V01, SN: FOC2323R0GU
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FH07
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2309FGU7
+
+10.91.126.201
+####NAME: "0/RP0", DESCR: "Cisco NCS 540 Series Fixed Router 24x10G, 8x25G, 2x100G"
+PID: N540-24Z8Q2C-M    , VID: V01, SN: FOC2227NYCA
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: MTC22280879
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: ACW22200QSM
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P73000133
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I827100857
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160225
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160236
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100218
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100217
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030442
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030260
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030377
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030282
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030306
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030305
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW2042021H-A
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: OPM23320EK1
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-24Z8Q2C-M    , VID: V01, SN: FOC2240NK6H
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2237EW56
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2237EW51
+
+10.91.126.202
+####NAME: "0/RP0", DESCR: "Cisco NCS 540 Series Fixed Router 24x10G, 8x25G, 2x100G"
+PID: N540-24Z8Q2C-M    , VID: V01, SN: FOC2231NBJ1
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072063
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC2307205X
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: ACW21190GLS
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500184
+
+NAME: "TenGigE0/0/0/6", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500137
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090071
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64100140
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500027
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030265
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS203815AW
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G AOC Pluggable Optics Module"
+PID: QSFP-100G-AOC10M  , VID: V01, SN: FIW2042021H-B
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-24Z8Q2C-M    , VID: V01, SN: FOC2232P5W2
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2237EW6B
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2237EW5X
+
+10.91.126.203
+####NAME: "0/RP0", DESCR: "Cisco NCS 540 16G Series Fixed Router 24x10G,8x25G,2x100G"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2403NXVS
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: GA27050262
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030243
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SU-400           , VID: OE01, SN: H0921PA2500017
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110709
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: 7SV-000           , VID: DT01, SN: DE163904H00477
+
+NAME: "GigabitEthernet0/0/0/5", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050408
+
+NAME: "TenGigE0/0/0/6", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030381
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: H327100734
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030267
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 770-301           , VID: 1  , SN: E802-1352
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030237
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030337
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SU-004           , VID: AP01, SN: H811070235
+
+NAME: "GigabitEthernet0/0/0/13", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100382
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 770-301           , VID: 1  , SN: E802-1359
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: OPM23040HMU
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030205
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030291
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030247
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030279
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030221
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L2012050085
+
+NAME: "TenGigE0/0/0/24", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030503
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030483
+
+NAME: "GigabitEthernet0/0/0/26", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051098
+
+NAME: "GigabitEthernet0/0/0/27", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051102
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051096
+
+NAME: "GigabitEthernet0/0/0/29", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051099
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030578
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050147
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V03, SN: AVF2235S0AU
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G ER4L Pluggable Optics Module"
+PID: QSFP-100G-ER4L-S  , VID: V01, SN: FLJ2349J006
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 16G 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2403PK19
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2308EWHU
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2305EW3U
+
+10.91.126.204
+####NAME: "0/RP0", DESCR: "NC55A1 48Q6H Route Processor Card"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC23355Z7N
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100211
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: H726110259
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500028
+
+NAME: "GigabitEthernet0/0/0/3", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 8SM-000           , VID: AP01, SN: J313110682
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1812250725
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051053
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 7SM-000           , VID: AP01, SN: GB08100121
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030330
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: H531040102
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160274
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160218
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100242
+
+NAME: "GigabitEthernet0/0/0/15", DESCR: "Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: GLC-LH-SMD        , VID: V01, SN: OPM23040HNB
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030286
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050165
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100239
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030568
+
+NAME: "TwentyFiveGigE0/0/0/24", DESCR: "Cisco SFP-10/25G-LR-S Pluggable Optics Module"
+PID: SFP-10/25G-LR-S   , VID: V01, SN: OPM23510RRP
+
+NAME: "TwentyFiveGigE0/0/0/25", DESCR: "Cisco SFP-10/25G-LR-S Pluggable Optics Module"
+PID: SFP-10/25G-LR-S   , VID: V01, SN: OPM23510S2U
+
+NAME: "GigabitEthernet0/0/0/32", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: G131057107
+
+NAME: "TenGigE0/0/0/33", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030273
+
+NAME: "TenGigE0/0/0/34", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 7SN-400           , VID: OE01, SN: K0809P64100039
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050449
+
+NAME: "TenGigE0/0/0/41", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1908290958
+
+NAME: "TenGigE0/0/0/44", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500070
+
+NAME: "TenGigE0/0/0/47", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050145
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24120813
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20380V10
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V01, SN: AVF2030G010
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241510
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241338
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V03, SN: AVF2235S11R
+
+NAME: "Rack 0", DESCR: "NCS55A1 48Q6H 1RU Chassis"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC2336R3HH
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2334F7SW
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2333F9B5
+
+10.91.126.205
+####NAME: "0/RP0", DESCR: "NC55A1 48Q6H Route Processor Card"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC24120K01
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SN-000           , VID: AP01, SN: G815060492
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822PA4900063
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160213
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050430
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160276
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8ST-003           , VID: SA01, SN: L1911180070
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 7SU-004           , VID: AP01, SN: EC16020556
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160303
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1908290684
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1908290717
+
+NAME: "GigabitEthernet0/0/0/11", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100213
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040877
+
+NAME: "GigabitEthernet0/0/0/13", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040878
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB21150048
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030353
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030328
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500085
+
+NAME: "GigabitEthernet0/0/0/21", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8ST-004           , VID: AP01, SN: I523080068
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030226
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040937
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: LS48-C3L-TC-N-D5  , VID: 0000, SN: 7120669102
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030271
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030251
+
+NAME: "GigabitEthernet0/0/0/34", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040949
+
+NAME: "GigabitEthernet0/0/0/37", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7SU-003           , VID: AP01, SN: H726110293
+
+NAME: "GigabitEthernet0/0/0/39", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 7ST-003           , VID: AP01, SN: HA18100050
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040948
+
+NAME: "TenGigE0/0/0/47", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050152
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: FNS242716DA
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Non-Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-TX  , VID: 01 , SN: IN1904080001
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V03, SN: AVF2421S28V
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241248
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G SR4 Pluggable Optics Module"
+PID: QSFP-100G-SR4-S   , VID: V03, SN: AVF2421S28W
+
+NAME: "Rack 0", DESCR: "NCS55A1 48Q6H 1RU Chassis"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC2409R2GE
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1VB
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1TP
+
+10.91.126.206
+####NAME: "0/RP0", DESCR: "Cisco NCS 540 16G Series Fixed Router 24x10G,8x25G,2x100G"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2423N75Q
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051059
+
+NAME: "GigabitEthernet0/0/0/1", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051101
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160260
+
+NAME: "TenGigE0/0/0/4", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160243
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040895
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030344
+
+NAME: "TenGigE0/0/0/11", DESCR: "Cisco SFP+ 10G DWDM Tunable Pluggable Optics Module"
+PID: DWDM-SFP10G-C-S   , VID: V01, SN: ONT2310007T
+
+NAME: "GigabitEthernet0/0/0/12", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J313100260
+
+NAME: "TenGigE0/0/0/13", DESCR: "Cisco SFP+ 10G DWDM Tunable Pluggable Optics Module"
+PID: DWDM-SFP10G-C-S   , VID: V01, SN: ONT2312002S
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030244
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: TPP1XGDS0CACEE2G  , VID: N/A, SN: Z133205Z3
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030223
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: GLC-SX-MMD        , VID: V01, SN: AGJ2229R1TN
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030312
+
+NAME: "TwentyFiveGigE0/0/0/24", DESCR: "Cisco SFP-10/25G-LR-S Pluggable Optics Module"
+PID: SFP-10/25G-LR-S   , VID: V01, SN: OPM23510QSA
+
+NAME: "TwentyFiveGigE0/0/0/25", DESCR: "Cisco SFP-10/25G-LR-S Pluggable Optics Module"
+PID: SFP-10/25G-LR-S   , VID: V01, SN: OPM23510QS1
+
+NAME: "GigabitEthernet0/0/0/28", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051105
+
+NAME: "GigabitEthernet0/0/0/29", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051052
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040938
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050170
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V01, SN: FNS20400668
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 16G 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2425N8C7
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2423EW6M
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2423EW6X
+
+10.91.126.207
+####NAME: "0/RP0", DESCR: "NC55A1 48Q6H Route Processor Card"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC242739DR
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030300
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050131
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030235
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030576
+
+NAME: "TenGigE0/0/0/4", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030465
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050154
+
+NAME: "TenGigE0/0/0/6", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2010280030
+
+NAME: "TenGigE0/0/0/7", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030478
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030275
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030284
+
+NAME: "GigabitEthernet0/0/0/10", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 770-301           , VID: 1  , SN: E802-1354
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030335
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050103
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030254
+
+NAME: "GigabitEthernet0/0/0/14", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051050
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050118
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L2012050045
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050155
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050163
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050122
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030580
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030389
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030441
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030215
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-SX Pluggable Optics Module"
+PID: 771-301           , VID: 1  , SN: A800-0607
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050142
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L2012050049
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2010280041
+
+NAME: "TenGigE0/0/0/28", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L2012050057
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050167
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030315
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050180
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050158
+
+NAME: "TenGigE0/0/0/33", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050148
+
+NAME: "TenGigE0/0/0/41", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050146
+
+NAME: "GigabitEthernet0/0/0/42", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051071
+
+NAME: "GigabitEthernet0/0/0/43", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051056
+
+NAME: "TenGigE0/0/0/44", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050150
+
+NAME: "TenGigE0/0/0/45", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030341
+
+NAME: "TenGigE0/0/0/46", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050141
+
+NAME: "TenGigE0/0/0/47", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050144
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244493
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241675
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241664
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241776
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241673
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241681
+
+NAME: "Rack 0", DESCR: "NCS55A1 48Q6H 1RU Chassis"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC2429R0KW
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1LF
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1SG
+
+10.91.126.208
+####NAME: "0/RP0", DESCR: "NC55A1 48Q6H Route Processor Card"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC24276516
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030248
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030270
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030379
+
+NAME: "TwentyFiveGigE0/0/0/25", DESCR: "Cisco SFP-10/25G-LR-S Pluggable Optics Module"
+PID: SFP-10/25G-LR-S   , VID: V01, SN: OPM23510QRU
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244497
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241678
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241629
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241724
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241203
+
+NAME: "Rack 0", DESCR: "NCS55A1 48Q6H 1RU Chassis"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC2429R08D
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1LZ
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1LB
+
+10.91.126.209
+####Sun Aug  1 09:03:07.317 UTC
+NAME: "0/RP0", DESCR: "NC55A1 48Q6H Route Processor Card"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC24276513
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030585
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030481
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030470
+
+NAME: "TenGigE0/0/0/4", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030524
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030477
+
+NAME: "TenGigE0/0/0/6", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030491
+
+NAME: "TenGigE0/0/0/7", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030570
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030466
+
+NAME: "TenGigE0/0/0/9", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030575
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030311
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050177
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030488
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030471
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030482
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030492
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030479
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030582
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050134
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030219
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030487
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030484
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030589
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030310
+
+NAME: "GigabitEthernet0/0/0/24", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051095
+
+NAME: "GigabitEthernet0/0/0/25", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051104
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030523
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1908290974
+
+NAME: "TenGigE0/0/0/32", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L2012050042
+
+NAME: "TenGigE0/0/0/44", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1908290956
+
+NAME: "GigabitEthernet0/0/0/45", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051069
+
+NAME: "GigabitEthernet0/0/0/46", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050367
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244083
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241625
+
+NAME: "HundredGigE0/0/1/2", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244491
+
+NAME: "HundredGigE0/0/1/3", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244231
+
+NAME: "HundredGigE0/0/1/4", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244029
+
+NAME: "HundredGigE0/0/1/5", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241641
+
+NAME: "Rack 0", DESCR: "NCS55A1 48Q6H 1RU Chassis"
+PID: NCS-55A1-48Q6H    , VID: V01, SN: FOC2429R0L4
+
+NAME: "0/FT0", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NC5501 Fan Tray Forward Flow"
+PID: NCS-1RU-FAN-FW    , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1KJ
+
+NAME: "0/PM1", DESCR: "NCS 5500 AC 1100W Power Supply Port-S Intake/Front-to-back"
+PID: NCS-1100W-ACFW    , VID: V01, SN: ART2351F1L4
+
+10.91.126.210
+####NAME: "0/RP0", DESCR: "Cisco NCS 540 16G Series Fixed Router 24x10G,8x25G,2x100G"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2425NF9R
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160271
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1908290960
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030489
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: OE01, SN: H0822P74500185
+
+NAME: "GigabitEthernet0/0/0/4", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051064
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030277
+
+NAME: "TenGigE0/0/0/6", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030504
+
+NAME: "TenGigE0/0/0/7", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030224
+
+NAME: "TenGigE0/0/0/8", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030586
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051452
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1812250293
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030591
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030354
+
+NAME: "TenGigE0/0/0/13", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030301
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030307
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1908290961
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050159
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030592
+
+NAME: "TenGigE0/0/0/18", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030579
+
+NAME: "TenGigE0/0/0/19", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1908290716
+
+NAME: "TenGigE0/0/0/20", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030220
+
+NAME: "TenGigE0/0/0/21", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030246
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030258
+
+NAME: "TenGigE0/0/0/25", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2010280031
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1909160268
+
+NAME: "TenGigE0/0/0/28", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050132
+
+NAME: "TenGigE0/0/0/29", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050157
+
+NAME: "TenGigE0/0/0/30", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8ST-400           , VID: SA01, SN: X2003030029
+
+NAME: "TenGigE0/0/0/31", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050169
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241667
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244601
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 16G 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2428NUJN
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW04
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW0H
+
+10.91.126.211
+####NAME: "0/RP0", DESCR: "Cisco NCS 540 16G Series Fixed Router 24x10G,8x25G,2x100G"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2425NF1E
+
+NAME: "TwentyFiveGigE0/0/0/24", DESCR: "Cisco SFP-10/25G-LR-S Pluggable Optics Module"
+PID: SFP-10/25G-LR-S   , VID: V01, SN: OPM23510SFX
+
+NAME: "TwentyFiveGigE0/0/0/25", DESCR: "Cisco SFP-10/25G-LR-S Pluggable Optics Module"
+PID: SFP-10/25G-LR-S   , VID: V01, SN: OPM23510S76
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24244492
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241725
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 16G 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2428NUKH
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW1H
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW03
+
+10.91.126.212
+####NAME: "0/RP0", DESCR: "Cisco NCS 540 16G Series Fixed Router 24x10G,8x25G,2x100G"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2428NVHJ
+
+NAME: "TenGigE0/0/0/0", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030522
+
+NAME: "TenGigE0/0/0/1", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030480
+
+NAME: "TenGigE0/0/0/2", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L1710160028
+
+NAME: "TenGigE0/0/0/3", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050160
+
+NAME: "TenGigE0/0/0/4", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030473
+
+NAME: "TenGigE0/0/0/5", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050164
+
+NAME: "GigabitEthernet0/0/0/6", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050355
+
+NAME: "GigabitEthernet0/0/0/7", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: I817040889
+
+NAME: "GigabitEthernet0/0/0/8", DESCR: "Non-Cisco SFP 1G 1000BX-10-U Pluggable Optics Module"
+PID: 8ST-003           , VID: AP01, SN: HB29090088
+
+NAME: "GigabitEthernet0/0/0/9", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051067
+
+NAME: "TenGigE0/0/0/10", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030490
+
+NAME: "TenGigE0/0/0/11", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030518
+
+NAME: "TenGigE0/0/0/12", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L1908290978
+
+NAME: "TenGigE0/0/0/14", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030486
+
+NAME: "TenGigE0/0/0/15", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: X2003030569
+
+NAME: "TenGigE0/0/0/16", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2010280024
+
+NAME: "TenGigE0/0/0/17", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L2012050035
+
+NAME: "GigabitEthernet0/0/0/18", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050356
+
+NAME: "GigabitEthernet0/0/0/19", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050354
+
+NAME: "GigabitEthernet0/0/0/20", DESCR: "Cisco SFP 1G 1000BASE-T Pluggable Optics Module"
+PID: GLC-TE            , VID: V01, SN: AVC23072060
+
+NAME: "TenGigE0/0/0/22", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030218
+
+NAME: "TenGigE0/0/0/23", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: X2003030320
+
+NAME: "TenGigE0/0/0/24", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050149
+
+NAME: "GigabitEthernet0/0/0/25", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051103
+
+NAME: "TenGigE0/0/0/26", DESCR: "Non-Cisco SFP+ 10G LR Pluggable Optics Module"
+PID: 8SN-400           , VID: SA01, SN: L2012050032
+
+NAME: "TenGigE0/0/0/27", DESCR: "Non-Cisco SFP+ 10G SR Pluggable Optics Module"
+PID: 8SM-400           , VID: SA01, SN: L2012050113
+
+NAME: "GigabitEthernet0/0/0/29", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820051123
+
+NAME: "GigabitEthernet0/0/0/30", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050366
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241807
+
+NAME: "HundredGigE0/0/1/1", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241680
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 16G 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2428NUMB
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW09
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW0S
+
+10.91.126.213
+####NAME: "Chassis", DESCR: "Cisco ASR1001-X Chassis"
+PID: ASR1001-X         , VID: V04  , SN: FXS2252Q2R9
+
+NAME: "Power Supply Module 0", DESCR: "Cisco ASR1001-X AC Power Supply"
+PID: ASR1001-X-PWR-AC  , VID: V02  , SN: LIT23042K59
+
+NAME: "Power Supply Module 1", DESCR: "Cisco ASR1001-X AC Power Supply"
+PID: ASR1001-X-PWR-AC  , VID: V02  , SN: LIT23042LK6
+
+NAME: "Fan Tray", DESCR: "Cisco ASR1001-X Fan Tray"
+PID: ASR1001-X-FANTRAY , VID:      , SN:            
+
+NAME: "module 0", DESCR: "Cisco ASR1001-X SPA Interface Processor"
+PID: ASR1001-X         , VID:      , SN:            
+
+NAME: "SPA subslot 0/0", DESCR: "Built-in GE SPA with 2 port 10G and 6 port 1G Interfaces"
+PID: BUILT-IN-2T+6X1GE , VID:      , SN:            
+
+NAME: "subslot 0/0 transceiver 1", DESCR: "SFP+ 10GBASE-LRM"
+PID: SFP-10G-LRM         , VID: V03  , SN: OPM22472A19     
+
+NAME: "module R0", DESCR: "Cisco ASR1001-X Route Processor"
+PID: ASR1001-X         , VID: V04  , SN: JAE231307N4
+
+NAME: "module F0", DESCR: "Cisco ASR1001-X Embedded Services Processor"
+PID: ASR1001-X         , VID:      , SN:            
+
+
+10.91.126.213
+####list index out of range
+10.91.126.214####Sun Aug  1 09:03:55.744 UTC
+NAME: "0/RP0", DESCR: "Cisco NCS 540 16G Series Fixed Router 24x10G,8x25G,2x100G"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2425NF37
+
+NAME: "GigabitEthernet0/0/0/0", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050357
+
+NAME: "GigabitEthernet0/0/0/2", DESCR: "Non-Cisco SFP 1G 1000BASE-LX Pluggable Optics Module"
+PID: 8SN-000           , VID: AP01, SN: J820050429
+
+NAME: "HundredGigE0/0/1/0", DESCR: "Cisco QSFP28 100G LR4 Pluggable Optics Module"
+PID: QSFP-100G-LR4-S   , VID: V02, SN: INL24241722
+
+NAME: "Rack 0", DESCR: "NCS 540 Series 16G 24x1/10GE, 8x10/25GE, 2x100GE Fixed Chassis"
+PID: N540-ACC-SYS      , VID: V02, SN: FOC2428NUHY
+
+NAME: "0/FT0", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT1", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT2", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/FT3", DESCR: "NCS 540 Fan"
+PID: N540-FAN          , VID: V01, SN: N/A
+
+NAME: "0/PM0", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW06
+
+NAME: "0/PM1", DESCR: "NCS 540 400W AC power supply"
+PID: N540-PWR400-A     , VID: V01, SN: SDG2425EW0C

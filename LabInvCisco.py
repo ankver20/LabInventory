@@ -11,6 +11,14 @@ import os
 
 file_path = os.path.dirname(os.path.realpath(__file__))
 
+if __name__ == '__main__':
+    # Cisco username & PW for BLR Lab
+    username = 'averma2'
+    pw = 'Ank#2021'
+    deviceType = 'cisco_xr'
+    port = '22'
+
+
 def netmiko_ssh():
     deviceIP = DeviceList()
     print(deviceIP)
@@ -18,7 +26,7 @@ def netmiko_ssh():
         try:
             dp = deviceIP[i]
 
-            net_connect = ConnectHandler(device_type='cisco_xr', ip= dp, username='averma2', password='Ank#2020', port = 22)
+            net_connect = ConnectHandler(device_type=deviceType, ip=dp, username=username, password=pw, port=port)
             output = net_connect.send_command_expect("ter len 0", delay_factor=2)
             print(output)
             output = net_connect.send_command_expect("sh inventory", delay_factor=2)
@@ -36,8 +44,6 @@ def netmiko_ssh():
             print(c)
             createLog('\n'+dp+'####')
             createLog(c)
-
-
 
 # Raw log is created
 def createLog(c):
